@@ -54,8 +54,8 @@ const Step = () => {
                 Review and Improve Fishing Experience
               </h2>
               <p className="p2">
-                the app provides a summary of the day's activity, including the
-                number of casts, successful catches, notable conditions, and
+                the app provides a summary of the day&apos;s activity, including
+                the number of casts, successful catches, notable conditions, and
                 review. customer has option to share their fishing experiences
                 and data on the ReelInnovate community platform. Engaging with
                 other users, the customer can learn from their experiences,
