@@ -6,8 +6,6 @@ import Partner from "@/components/Partner";
 import Portfolio from "@/components/Portfolio";
 import ProductsAndServices from "@/components/ProductsAndServices";
 import Step from "@/components/Step";
-import Image from "next/image";
-import Link from "next/link";
 
 export default function Home() {
   return (
